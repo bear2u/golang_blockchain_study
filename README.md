@@ -25,14 +25,15 @@
 
 공부 내용
 
-1. [Proof-of-Work](https://jeiwan.cc/posts/building-blockchain-in-go-part-2/)
-2. [Persistence and CLI](https://jeiwan.cc/posts/building-blockchain-in-go-part-3/)
-3. [Transactions 1](https://jeiwan.cc/posts/building-blockchain-in-go-part-4/)
-4. [Addresses](https://jeiwan.cc/posts/building-blockchain-in-go-part-5/)
-5. [Transactions 2](https://jeiwan.cc/posts/building-blockchain-in-go-part-6/)
-6. [Network](https://jeiwan.cc/posts/building-blockchain-in-go-part-7/)
-7. 지갑 구현
-8. 블록 탐색기 구현
+1. [Start new Block](https://jeiwan.cc/posts/building-blockchain-in-go-part-1/)
+2. [Proof-of-Work](https://jeiwan.cc/posts/building-blockchain-in-go-part-2/)
+3. [Persistence and CLI](https://jeiwan.cc/posts/building-blockchain-in-go-part-3/)
+4. [Transactions 1](https://jeiwan.cc/posts/building-blockchain-in-go-part-4/)
+5. [Addresses](https://jeiwan.cc/posts/building-blockchain-in-go-part-5/)
+6. [Transactions 2](https://jeiwan.cc/posts/building-blockchain-in-go-part-6/)
+7. [Network](https://jeiwan.cc/posts/building-blockchain-in-go-part-7/)
+8. 지갑 구현
+9. 블록 탐색기 구현
 
 - [200줄 안으로 블록체인 작성 #1](https://medium.com/@mycoralhealth/code-your-own-blockchain-in-less-than-200-lines-of-go-e296282bcffc)
 - [200줄 안으로 블록체인 작성 #2](https://medium.com/@mycoralhealth/part-2-networking-code-your-own-blockchain-in-less-than-200-lines-of-go-17fe1dad46e1)
